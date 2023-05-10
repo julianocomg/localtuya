@@ -1,0 +1,14 @@
+{
+  "domain": "localtuyaj",
+  "name": "LocalTuyaj integration",
+  "version": "5.0.0",
+  "documentation": "https://github.com/julianocomg/localtuya/",
+  "dependencies": [],
+  "codeowners": [
+    "@rospogrigio", "@postlund"
+  ],
+  "issue_tracker": "https://github.com/julianocomg/localtuya/issues",
+  "requirements": [],
+  "config_flow": true,
+  "iot_class": "local_push"
+}
